@@ -11,7 +11,8 @@
         <entry key="'⌃V'" value="5" />
         <entry key="'⌃⇧K' or '↑' or '⇧⏎'" value="12" />
         <entry key="'⌃⌥A'" value="1" />
-        <entry key="'⌥←' or 'Button4 Click'" value="9" />
+        <entry key="'⌥←' or 'Button4 Click'" value="12" />
+        <entry key="'⌥→' or 'Button5 Click'" value="1" />
         <entry key="'⌥⇧C'" value="1" />
         <entry key="'⌥⇧R'" value="41" />
         <entry key="'⌥⇧V'" value="3" />
