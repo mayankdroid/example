@@ -2,22 +2,24 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
-        <entry key="'&amp;#8984; 1'" value="18" />
+        <entry key="'&amp;#8984; 1'" value="19" />
         <entry key="'&amp;#8984; 2'" value="1" />
         <entry key="'&amp;#8984; 6'" value="5" />
-        <entry key="'&amp;#8984; 9'" value="3" />
+        <entry key="'&amp;#8984; 9'" value="5" />
         <entry key="'F12' or '⌃⇧E'" value="5" />
         <entry key="'⌃C'" value="6" />
+        <entry key="'⌃D'" value="1" />
         <entry key="'⌃K' or '↓' or '⏎'" value="1" />
         <entry key="'⌃V'" value="5" />
+        <entry key="'⌃⇧F4' or '⌃⇧W'" value="1" />
         <entry key="'⌃⇧K' or '↑' or '⇧⏎'" value="12" />
         <entry key="'⌃⌥A'" value="1" />
-        <entry key="'⌥←' or 'Button4 Click'" value="16" />
+        <entry key="'⌥←' or 'Button4 Click'" value="20" />
         <entry key="'⌥→' or 'Button5 Click'" value="1" />
         <entry key="'⌥⇧C'" value="1" />
-        <entry key="'⌥⇧R'" value="41" />
+        <entry key="'⌥⇧R'" value="52" />
         <entry key="'⌥⇧V'" value="3" />
-        <entry key="'⌥⇧X' or '⇧F10'" value="49" />
+        <entry key="'⌥⇧X' or '⇧F10'" value="56" />
         <entry key="'⌦'" value="3" />
       </map>
     </option>
