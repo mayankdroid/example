@@ -3,11 +3,11 @@
     <option name="stats">
       <map>
         <entry key="'&amp;#8984; 0'" value="1" />
-        <entry key="'&amp;#8984; 1'" value="31" />
+        <entry key="'&amp;#8984; 1'" value="32" />
         <entry key="'&amp;#8984; 2'" value="1" />
         <entry key="'&amp;#8984; 6'" value="6" />
         <entry key="'&amp;#8984; 9'" value="15" />
-        <entry key="'F12' or '⌃⇧E'" value="8" />
+        <entry key="'F12' or '⌃⇧E'" value="9" />
         <entry key="'⌃C'" value="11" />
         <entry key="'⌃D'" value="8" />
         <entry key="'⌃F7'" value="2" />
@@ -18,12 +18,12 @@
         <entry key="'⌃⇧K' or '↑' or '⇧⏎'" value="12" />
         <entry key="'⌃⌥A'" value="3" />
         <entry key="'⌃⌥Z'" value="1" />
-        <entry key="'⌥←' or 'Button4 Click'" value="47" />
+        <entry key="'⌥←' or 'Button4 Click'" value="49" />
         <entry key="'⌥→' or 'Button5 Click'" value="2" />
         <entry key="'⌥⇧C'" value="1" />
         <entry key="'⌥⇧R'" value="56" />
         <entry key="'⌥⇧V'" value="3" />
-        <entry key="'⌥⇧X' or '⇧F10'" value="107" />
+        <entry key="'⌥⇧X' or '⇧F10'" value="109" />
         <entry key="'⌦'" value="7" />
       </map>
     </option>
