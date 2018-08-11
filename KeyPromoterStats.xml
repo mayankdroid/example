@@ -6,10 +6,10 @@
         <entry key="'&amp;#8984; 1'" value="33" />
         <entry key="'&amp;#8984; 2'" value="1" />
         <entry key="'&amp;#8984; 6'" value="6" />
-        <entry key="'&amp;#8984; 9'" value="15" />
+        <entry key="'&amp;#8984; 9'" value="16" />
         <entry key="'F12' or '⌃⇧E'" value="9" />
         <entry key="'⌃C'" value="11" />
-        <entry key="'⌃D'" value="8" />
+        <entry key="'⌃D'" value="9" />
         <entry key="'⌃F7'" value="2" />
         <entry key="'⌃K' or '↓' or '⏎'" value="9" />
         <entry key="'⌃V'" value="9" />
@@ -18,12 +18,12 @@
         <entry key="'⌃⇧K' or '↑' or '⇧⏎'" value="13" />
         <entry key="'⌃⌥A'" value="3" />
         <entry key="'⌃⌥Z'" value="1" />
-        <entry key="'⌥←' or 'Button4 Click'" value="61" />
-        <entry key="'⌥→' or 'Button5 Click'" value="2" />
+        <entry key="'⌥←' or 'Button4 Click'" value="73" />
+        <entry key="'⌥→' or 'Button5 Click'" value="4" />
         <entry key="'⌥⇧C'" value="1" />
         <entry key="'⌥⇧R'" value="56" />
         <entry key="'⌥⇧V'" value="3" />
-        <entry key="'⌥⇧X' or '⇧F10'" value="117" />
+        <entry key="'⌥⇧X' or '⇧F10'" value="120" />
         <entry key="'⌦'" value="7" />
       </map>
     </option>
